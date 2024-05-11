@@ -1,0 +1,2 @@
+# to generate class diagram
+python manage.py graph_models --pydot -a -g -o my_project_visualized.png
